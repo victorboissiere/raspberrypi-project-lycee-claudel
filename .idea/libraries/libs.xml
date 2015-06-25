@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/google-api-services-drive-v2-rev170-java-1.20.0/drive/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/google-api-services-drive-v2-rev170-java-1.20.0/drive/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/google-api-services-drive-v2-rev170-java-1.20.0/drive/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/google-api-services-drive-v2-rev170-java-1.20.0/drive/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
